@@ -4,12 +4,9 @@
 
 ## Profile views counter 
 ![Visitor Count](https://profile-counter.glitch.me/SaanidhyaM/count.svg) 
-- 🔭 I’m currently adjusting my hobbies with personal life 😐 
-- 🌱 I’m currently learning everything, literally 🤓 
-- 👯 I’m looking to collaborate on projects of other developers/programmers 
-- 🤔 I’m looking for help with any of my projects which are not efficient 🙁 
-- 🥅 2023 Goals: Contribute more to Open Source projects; because, why not! 
-- ⚡ Fun fact: I'm just 18.
+- 🔭 I’m currently in my exploration phase. 🤓 
+- 🥅 2023 Goals: Get proficient at backend and contribute more to Open Source projects; because, why not! 
+- ⚡ Fun fact: I'm hardstuck at bronze 3 in valorant.
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
