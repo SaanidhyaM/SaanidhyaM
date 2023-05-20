@@ -36,7 +36,6 @@
 ## HERE IS A JOKE FOR YOU
  
  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
  ## 📈 My Github Stats!
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaanidhyaM&theme=github_dark)
