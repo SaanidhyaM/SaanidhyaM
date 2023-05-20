@@ -27,7 +27,7 @@
     </a>
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
         <img
-            src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+            src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"
         />
     </a>
 </p>
