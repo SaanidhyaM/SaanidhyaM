@@ -32,3 +32,10 @@
  
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+ ## 📈 My Github Stats!
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaanidhyaM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaanidhyaM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaanidhyaM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaanidhyaM&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaanidhyaM&theme=github_dark&utcOffset=8)
