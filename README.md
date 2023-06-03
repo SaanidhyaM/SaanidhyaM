@@ -8,7 +8,7 @@
 ## Profile views counter 
 ![Visitor Count](https://profile-counter.glitch.me/SaanidhyaM/count.svg) 
 - 🔭 I’m currently in my exploration phase. 🤓 
-- 🥅 2023 Goals: Get proficient at backend and contribute more to Open Source projects; because, why not! 
+- 🥅 2023 Goals: Get proficient at backend and contribute more to Open Source projects.
 - ⚡ Fun fact: I'm hardstuck at bronze 3 in valorant.
 
 <h3 align="left">🔨 Languages and Tools:</h3>
