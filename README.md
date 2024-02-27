@@ -33,6 +33,11 @@
             src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"
         />
     </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+        />
+    </a>
 </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
