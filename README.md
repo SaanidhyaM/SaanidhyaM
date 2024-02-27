@@ -35,7 +35,7 @@
     </a>
     <a href="https://www.tensorflow.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
+            src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=white"
         />
     </a>
 </p>
